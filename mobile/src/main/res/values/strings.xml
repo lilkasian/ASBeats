@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComboApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_verifying_splash">VerifyingSplash</string>
+    <string name="title_activity_ecgsuccess">ECGSuccess</string>
+    <string name="title_activity_ecgfail">ECGFail</string>
+    <string name="title_activity_transaction_page">TransactionPage</string>
+</resources>
